@@ -54,4 +54,4 @@ input[type="text"] {
   border: none;
   box-sizing: border-box;
   height: 75px;
-  width: % input-area-width; }
+  width: 100%; }
